@@ -28,6 +28,6 @@ jobs:
 
     - run: pip install -r requirements.txt
 
-    - run: python -m pep8 project_0/game_v2.py
+    - run: flake8
 
     - run: python project_0/game_v2.py
