@@ -1,2 +1,4 @@
 flake8==4.0.1
 numpy==1.21.4
+ipykernel==6.6.0
+jupyter==1.0.0
