@@ -1,5 +1,7 @@
 {
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true,
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "local",
+    // https://stackoverflow.com/a/56091981 
+    "python.terminal.executeInFileDir": true
 }
