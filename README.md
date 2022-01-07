@@ -1,3 +1,5 @@
+[![test](https://github.com/mashkam/sf_data_science/actions/workflows/test.yml/badge.svg)](https://github.com/mashkam/sf_data_science/actions/workflows/test.yml)
+
 # My Data Science projects
 
 From the [SkillFactory Data Science course](https://lms.skillfactory.ru/courses/data-scientist)
