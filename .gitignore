@@ -127,4 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
 project_pandas/processed_parsing.xlsx
+project_pandas/iframe_figures/figure_*.html
+project_pandas/plotly/*.html
+.DS_Store
