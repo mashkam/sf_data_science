@@ -11,3 +11,4 @@ From the [SkillFactory Data Science course](https://lms.skillfactory.ru/courses/
 ## Projects
 
 1. [Project_0](./project_0)
+1. [Project_1](./project_1)
